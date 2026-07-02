@@ -52,8 +52,10 @@ class Solution {
         return Math.min(t1,t2);
     }
     public int fun1(int sum, int t) {
-    int diff = t - sum;
-    if (diff == 1) return -1; 
-    return (diff + 2) / 3; 
+    
+    if(t%3==0){
+        return t/3;
+    }
+    return t/3 +1;
 }
 }
