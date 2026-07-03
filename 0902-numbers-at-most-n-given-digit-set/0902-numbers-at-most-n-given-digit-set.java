@@ -1,49 +1,55 @@
 class Solution {
-    public int atMostNGivenDigitSet(String[] digits, int n) {
-        String s = String.valueOf(n);
-        int len = s.length();
-        int k = digits.length;
-        long ans = 0;
 
-        // all numbers with fewer digits than n are automatically <= n
-        long pow = 1;
+    public int atMostNGivenDigitSet(String[] digits, int n) {
+
+        String a = String.valueOf(n);
+        int len = a.length();
+        int k = digits.length;
+
+        // count numbers  form  1 to n-1 as it must be valid 
+        int shorterCount = 0;
+        int pow = 1;
         for (int l = 1; l < len; l++) {
             pow *= k;
-            ans += pow;
-        }
+            shorterCount += pow;
+        }    // 100  len is 3 so upto 2 len all are valid ... 
 
-        // total combinations of length == len
-        long total = 1;
-        for (int i = 0; i < len; i++) total *= k;
-
-        long l = 0, r = total - 1, best = -1;
+       //now for  partially  suppose 
+        //["1","3","5","7"]  n= 114 so 111 and 113 also valid  find that
+        int l = 1;
+        int r = (int) Math.pow(k, len);
+        int ans = -1;
 
         while (l <= r) {
-            long mid = l + (r - l) / 2;
-            if (canImade(mid, len, digits, s)) {
-                best = mid;
+            int mid = l + (r - l) / 2;
+            if (canImade(mid, n, digits)) {
+                ans = mid;
                 l = mid + 1;
             } else {
                 r = mid - 1;
             }
         }
 
-        if (best != -1) ans += (best + 1);
+        int sameLenCount = (ans == -1) ? 0 : ans;  
 
-        return (int) ans;
+        return shorterCount + sameLenCount;
     }
 
-    
-    private boolean canImade(long idx, int len, String[] digits, String s) {
+    public boolean canImade(int m, int n, String[] digits) {
+        String target = String.valueOf(n);
+        int len = target.length();
         int k = digits.length;
+
+        long idx = m - 1;
         char[] built = new char[len];
-        long x = idx;
+
         for (int pos = len - 1; pos >= 0; pos--) {
-            int d = (int) (x % k);
+            int d = (int) (idx % k);
             built[pos] = digits[d].charAt(0);
-            x /= k;
+            idx /= k;
         }
+
         String num = new String(built);
-        return num.compareTo(s) <= 0; 
+        return num.compareTo(target) <= 0;
     }
 }
