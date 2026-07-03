@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/RakeshKayal/LeetCodes/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/RakeshKayal/LeetCodes/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RakeshKayal/LeetCodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RakeshKayal/LeetCodes/tree/master/3620-network-recovery-pathways) |
@@ -45,13 +46,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/RakeshKayal/LeetCodes/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [3620-network-recovery-pathways](https://github.com/RakeshKayal/LeetCodes/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/RakeshKayal/LeetCodes/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [3620-network-recovery-pathways](https://github.com/RakeshKayal/LeetCodes/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/RakeshKayal/LeetCodes/tree/master/3620-network-recovery-pathways) |
+## Math
+|  |
+| ------- |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/RakeshKayal/LeetCodes/tree/master/0902-numbers-at-most-n-given-digit-set) |
+## String
+|  |
+| ------- |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/RakeshKayal/LeetCodes/tree/master/0902-numbers-at-most-n-given-digit-set) |
 <!---LeetCode Topics End-->
