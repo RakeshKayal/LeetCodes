@@ -24,12 +24,12 @@ class Solution {
             }
         }
 
-        // tie-break on time first, then on p (lower power used = higher remaining power)
+        
         PriorityQueue<tuple> q = new PriorityQueue<>((a, b) ->
             a.time != b.time ? Long.compare(a.time, b.time) : Integer.compare(a.p, b.p)
         );
 
-        // visited must be per (node, powerUsed) -- NOT just per node
+       
         boolean visit[][] = new boolean[n][power + 1];
 
         q.add(new tuple(source, 0, 0));
