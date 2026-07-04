@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/RakeshKayal/LeetCodes/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RakeshKayal/LeetCodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RakeshKayal/LeetCodes/tree/master/3620-network-recovery-pathways) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/RakeshKayal/LeetCodes/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -20,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RakeshKayal/LeetCodes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RakeshKayal/LeetCodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RakeshKayal/LeetCodes/tree/master/3620-network-recovery-pathways) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/RakeshKayal/LeetCodes/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RakeshKayal/LeetCodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RakeshKayal/LeetCodes/tree/master/3620-network-recovery-pathways) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/RakeshKayal/LeetCodes/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Matrix
 |  |
 | ------- |
@@ -34,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RakeshKayal/LeetCodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RakeshKayal/LeetCodes/tree/master/3620-network-recovery-pathways) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/RakeshKayal/LeetCodes/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/RakeshKayal/LeetCodes/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [3620-network-recovery-pathways](https://github.com/RakeshKayal/LeetCodes/tree/master/3620-network-recovery-pathways) |
+| [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/RakeshKayal/LeetCodes/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Topological Sort
 |  |
 | ------- |
