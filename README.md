@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RakeshKayal/LeetCodes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RakeshKayal/LeetCodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RakeshKayal/LeetCodes/tree/master/3620-network-recovery-pathways) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/RakeshKayal/LeetCodes/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/RakeshKayal/LeetCodes/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RakeshKayal/LeetCodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RakeshKayal/LeetCodes/tree/master/3620-network-recovery-pathways) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/RakeshKayal/LeetCodes/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/RakeshKayal/LeetCodes/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Matrix
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RakeshKayal/LeetCodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RakeshKayal/LeetCodes/tree/master/3620-network-recovery-pathways) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/RakeshKayal/LeetCodes/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/RakeshKayal/LeetCodes/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Hash Table
 |  |
