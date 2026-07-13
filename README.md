@@ -166,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RakeshKayal/LeetCodes/tree/master/2302-count-subarrays-with-score-less-than-k) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/RakeshKayal/LeetCodes/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
