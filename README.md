@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RakeshKayal/LeetCodes/tree/master/0066-plus-one) |
 | [0347-top-k-frequent-elements](https://github.com/RakeshKayal/LeetCodes/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/RakeshKayal/LeetCodes/tree/master/0354-russian-doll-envelopes) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/RakeshKayal/LeetCodes/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/RakeshKayal/LeetCodes/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0911-online-election](https://github.com/RakeshKayal/LeetCodes/tree/master/0911-online-election) |
 | [1288-remove-covered-intervals](https://github.com/RakeshKayal/LeetCodes/tree/master/1288-remove-covered-intervals) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0675-cut-off-trees-for-golf-event](https://github.com/RakeshKayal/LeetCodes/tree/master/0675-cut-off-trees-for-golf-event) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RakeshKayal/LeetCodes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RakeshKayal/LeetCodes/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RakeshKayal/LeetCodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/RakeshKayal/LeetCodes/tree/master/0347-top-k-frequent-elements) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/RakeshKayal/LeetCodes/tree/master/0675-cut-off-trees-for-golf-event) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RakeshKayal/LeetCodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/RakeshKayal/LeetCodes/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/RakeshKayal/LeetCodes/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0675-cut-off-trees-for-golf-event](https://github.com/RakeshKayal/LeetCodes/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1301-number-of-paths-with-max-score](https://github.com/RakeshKayal/LeetCodes/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RakeshKayal/LeetCodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
