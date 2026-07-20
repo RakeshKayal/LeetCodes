@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/RakeshKayal/LeetCodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0347-top-k-frequent-elements](https://github.com/RakeshKayal/LeetCodes/tree/master/0347-top-k-frequent-elements) |
 | [0911-online-election](https://github.com/RakeshKayal/LeetCodes/tree/master/0911-online-election) |
 | [1331-rank-transform-of-an-array](https://github.com/RakeshKayal/LeetCodes/tree/master/1331-rank-transform-of-an-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/RakeshKayal/LeetCodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0115-distinct-subsequences](https://github.com/RakeshKayal/LeetCodes/tree/master/0115-distinct-subsequences) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/RakeshKayal/LeetCodes/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RakeshKayal/LeetCodes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/RakeshKayal/LeetCodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RakeshKayal/LeetCodes/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Enumeration
 |  |
