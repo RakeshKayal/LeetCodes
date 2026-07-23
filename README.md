@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RakeshKayal/LeetCodes/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/RakeshKayal/LeetCodes/tree/master/0354-russian-doll-envelopes) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/RakeshKayal/LeetCodes/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0739-daily-temperatures](https://github.com/RakeshKayal/LeetCodes/tree/master/0739-daily-temperatures) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/RakeshKayal/LeetCodes/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0911-online-election](https://github.com/RakeshKayal/LeetCodes/tree/master/0911-online-election) |
 | [1260-shift-2d-grid](https://github.com/RakeshKayal/LeetCodes/tree/master/1260-shift-2d-grid) |
@@ -224,10 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/RakeshKayal/LeetCodes/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RakeshKayal/LeetCodes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/RakeshKayal/LeetCodes/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RakeshKayal/LeetCodes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
 |  |
