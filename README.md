@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/RakeshKayal/LeetCodes/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RakeshKayal/LeetCodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RakeshKayal/LeetCodes/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/RakeshKayal/LeetCodes/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2594-minimum-time-to-repair-cars](https://github.com/RakeshKayal/LeetCodes/tree/master/2594-minimum-time-to-repair-cars) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/RakeshKayal/LeetCodes/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RakeshKayal/LeetCodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0911-online-election](https://github.com/RakeshKayal/LeetCodes/tree/master/0911-online-election) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/RakeshKayal/LeetCodes/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RakeshKayal/LeetCodes/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/RakeshKayal/LeetCodes/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2594-minimum-time-to-repair-cars](https://github.com/RakeshKayal/LeetCodes/tree/master/2594-minimum-time-to-repair-cars) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/RakeshKayal/LeetCodes/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/RakeshKayal/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/RakeshKayal/LeetCodes/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/RakeshKayal/LeetCodes/tree/master/1331-rank-transform-of-an-array) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/RakeshKayal/LeetCodes/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RakeshKayal/LeetCodes/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RakeshKayal/LeetCodes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/RakeshKayal/LeetCodes/tree/master/1768-merge-strings-alternately) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/RakeshKayal/LeetCodes/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RakeshKayal/LeetCodes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
