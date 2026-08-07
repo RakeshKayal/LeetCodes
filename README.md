@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RakeshKayal/LeetCodes/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RakeshKayal/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/RakeshKayal/LeetCodes/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/RakeshKayal/LeetCodes/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RakeshKayal/LeetCodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RakeshKayal/LeetCodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RakeshKayal/LeetCodes/tree/master/3658-gcd-of-odd-and-even-sums) |
