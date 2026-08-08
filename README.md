@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RakeshKayal/LeetCodes/tree/master/0066-plus-one) |
 | [0347-top-k-frequent-elements](https://github.com/RakeshKayal/LeetCodes/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/RakeshKayal/LeetCodes/tree/master/0354-russian-doll-envelopes) |
+| [0403-frog-jump](https://github.com/RakeshKayal/LeetCodes/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/RakeshKayal/LeetCodes/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RakeshKayal/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/RakeshKayal/LeetCodes/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/RakeshKayal/LeetCodes/tree/master/0115-distinct-subsequences) |
 | [0354-russian-doll-envelopes](https://github.com/RakeshKayal/LeetCodes/tree/master/0354-russian-doll-envelopes) |
+| [0403-frog-jump](https://github.com/RakeshKayal/LeetCodes/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/RakeshKayal/LeetCodes/tree/master/0486-predict-the-winner) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/RakeshKayal/LeetCodes/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1301-number-of-paths-with-max-score](https://github.com/RakeshKayal/LeetCodes/tree/master/1301-number-of-paths-with-max-score) |
