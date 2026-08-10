@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/RakeshKayal/LeetCodes/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/RakeshKayal/LeetCodes/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/RakeshKayal/LeetCodes/tree/master/1331-rank-transform-of-an-array) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/RakeshKayal/LeetCodes/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RakeshKayal/LeetCodes/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RakeshKayal/LeetCodes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/RakeshKayal/LeetCodes/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RakeshKayal/LeetCodes/tree/master/0486-predict-the-winner) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/RakeshKayal/LeetCodes/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1301-number-of-paths-with-max-score](https://github.com/RakeshKayal/LeetCodes/tree/master/1301-number-of-paths-with-max-score) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/RakeshKayal/LeetCodes/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/RakeshKayal/LeetCodes/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RakeshKayal/LeetCodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
