@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/RakeshKayal/LeetCodes/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2594-minimum-time-to-repair-cars](https://github.com/RakeshKayal/LeetCodes/tree/master/2594-minimum-time-to-repair-cars) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/RakeshKayal/LeetCodes/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RakeshKayal/LeetCodes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RakeshKayal/LeetCodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RakeshKayal/LeetCodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0911-online-election](https://github.com/RakeshKayal/LeetCodes/tree/master/0911-online-election) |
 | [1331-rank-transform-of-an-array](https://github.com/RakeshKayal/LeetCodes/tree/master/1331-rank-transform-of-an-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/RakeshKayal/LeetCodes/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RakeshKayal/LeetCodes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RakeshKayal/LeetCodes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Greedy
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/RakeshKayal/LeetCodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RakeshKayal/LeetCodes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RakeshKayal/LeetCodes/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RakeshKayal/LeetCodes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Enumeration
 |  |
 | ------- |
