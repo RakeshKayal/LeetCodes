@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/RakeshKayal/LeetCodes/tree/master/0739-daily-temperatures) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/RakeshKayal/LeetCodes/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0911-online-election](https://github.com/RakeshKayal/LeetCodes/tree/master/0911-online-election) |
+| [0930-binary-subarrays-with-sum](https://github.com/RakeshKayal/LeetCodes/tree/master/0930-binary-subarrays-with-sum) |
 | [1260-shift-2d-grid](https://github.com/RakeshKayal/LeetCodes/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/RakeshKayal/LeetCodes/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/RakeshKayal/LeetCodes/tree/master/1301-number-of-paths-with-max-score) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/RakeshKayal/LeetCodes/tree/master/0347-top-k-frequent-elements) |
 | [0911-online-election](https://github.com/RakeshKayal/LeetCodes/tree/master/0911-online-election) |
+| [0930-binary-subarrays-with-sum](https://github.com/RakeshKayal/LeetCodes/tree/master/0930-binary-subarrays-with-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/RakeshKayal/LeetCodes/tree/master/1331-rank-transform-of-an-array) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/RakeshKayal/LeetCodes/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RakeshKayal/LeetCodes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/RakeshKayal/LeetCodes/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RakeshKayal/LeetCodes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RakeshKayal/LeetCodes/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/RakeshKayal/LeetCodes/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0930-binary-subarrays-with-sum](https://github.com/RakeshKayal/LeetCodes/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/RakeshKayal/LeetCodes/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RakeshKayal/LeetCodes/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RakeshKayal/LeetCodes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
