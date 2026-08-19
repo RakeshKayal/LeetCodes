@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RakeshKayal/LeetCodes/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/RakeshKayal/LeetCodes/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/RakeshKayal/LeetCodes/tree/master/0055-jump-game) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RakeshKayal/LeetCodes/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/RakeshKayal/LeetCodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/RakeshKayal/LeetCodes/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/0142-linked-list-cycle-ii) |
