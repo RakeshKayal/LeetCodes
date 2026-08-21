@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RakeshKayal/LeetCodes/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/RakeshKayal/LeetCodes/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/RakeshKayal/LeetCodes/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/RakeshKayal/LeetCodes/tree/master/0055-jump-game) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RakeshKayal/LeetCodes/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RakeshKayal/LeetCodes/tree/master/0055-jump-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RakeshKayal/LeetCodes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RakeshKayal/LeetCodes/tree/master/0011-container-with-most-water) |
 | [0142-linked-list-cycle-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/0142-linked-list-cycle-ii) |
 | [1768-merge-strings-alternately](https://github.com/RakeshKayal/LeetCodes/tree/master/1768-merge-strings-alternately) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/RakeshKayal/LeetCodes/tree/master/2300-successful-pairs-of-spells-and-potions) |
