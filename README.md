@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RakeshKayal/LeetCodes/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/RakeshKayal/LeetCodes/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/RakeshKayal/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/RakeshKayal/LeetCodes/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/RakeshKayal/LeetCodes/tree/master/0055-jump-game) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RakeshKayal/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RakeshKayal/LeetCodes/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/RakeshKayal/LeetCodes/tree/master/0115-distinct-subsequences) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RakeshKayal/LeetCodes/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/RakeshKayal/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/0142-linked-list-cycle-ii) |
 | [1768-merge-strings-alternately](https://github.com/RakeshKayal/LeetCodes/tree/master/1768-merge-strings-alternately) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/RakeshKayal/LeetCodes/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -282,11 +285,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RakeshKayal/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/RakeshKayal/LeetCodes/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RakeshKayal/LeetCodes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RakeshKayal/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/RakeshKayal/LeetCodes/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RakeshKayal/LeetCodes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
