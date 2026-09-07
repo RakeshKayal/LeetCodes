@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/RakeshKayal/LeetCodes/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/RakeshKayal/LeetCodes/tree/master/0486-predict-the-winner) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/RakeshKayal/LeetCodes/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0940-distinct-subsequences-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/RakeshKayal/LeetCodes/tree/master/1301-number-of-paths-with-max-score) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/RakeshKayal/LeetCodes/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/RakeshKayal/LeetCodes/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RakeshKayal/LeetCodes/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/RakeshKayal/LeetCodes/tree/master/0115-distinct-subsequences) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/RakeshKayal/LeetCodes/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0940-distinct-subsequences-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RakeshKayal/LeetCodes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/RakeshKayal/LeetCodes/tree/master/1768-merge-strings-alternately) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RakeshKayal/LeetCodes/tree/master/2213-longest-substring-of-one-repeating-character) |
