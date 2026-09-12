@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RakeshKayal/LeetCodes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RakeshKayal/LeetCodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RakeshKayal/LeetCodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RakeshKayal/LeetCodes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RakeshKayal/LeetCodes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RakeshKayal/LeetCodes/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/RakeshKayal/LeetCodes/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2594-minimum-time-to-repair-cars](https://github.com/RakeshKayal/LeetCodes/tree/master/2594-minimum-time-to-repair-cars) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RakeshKayal/LeetCodes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/RakeshKayal/LeetCodes/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RakeshKayal/LeetCodes/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/RakeshKayal/LeetCodes/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/RakeshKayal/LeetCodes/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RakeshKayal/LeetCodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RakeshKayal/LeetCodes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/RakeshKayal/LeetCodes/tree/master/3620-network-recovery-pathways) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/RakeshKayal/LeetCodes/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/RakeshKayal/LeetCodes/tree/master/1331-rank-transform-of-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/RakeshKayal/LeetCodes/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/RakeshKayal/LeetCodes/tree/master/2563-count-the-number-of-fair-pairs) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RakeshKayal/LeetCodes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RakeshKayal/LeetCodes/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RakeshKayal/LeetCodes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
