@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/RakeshKayal/LeetCodes/tree/master/0055-jump-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RakeshKayal/LeetCodes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/RakeshKayal/LeetCodes/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RakeshKayal/LeetCodes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/RakeshKayal/LeetCodes/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/RakeshKayal/LeetCodes/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/RakeshKayal/LeetCodes/tree/master/1301-number-of-paths-with-max-score) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/RakeshKayal/LeetCodes/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/RakeshKayal/LeetCodes/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RakeshKayal/LeetCodes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/RakeshKayal/LeetCodes/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RakeshKayal/LeetCodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RakeshKayal/LeetCodes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RakeshKayal/LeetCodes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1768-merge-strings-alternately](https://github.com/RakeshKayal/LeetCodes/tree/master/1768-merge-strings-alternately) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RakeshKayal/LeetCodes/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RakeshKayal/LeetCodes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RakeshKayal/LeetCodes/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RakeshKayal/LeetCodes/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/0142-linked-list-cycle-ii) |
 | [1768-merge-strings-alternately](https://github.com/RakeshKayal/LeetCodes/tree/master/1768-merge-strings-alternately) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/RakeshKayal/LeetCodes/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RakeshKayal/LeetCodes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/RakeshKayal/LeetCodes/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RakeshKayal/LeetCodes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
