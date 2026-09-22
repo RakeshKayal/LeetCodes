@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RakeshKayal/LeetCodes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RakeshKayal/LeetCodes/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RakeshKayal/LeetCodes/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/RakeshKayal/LeetCodes/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RakeshKayal/LeetCodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RakeshKayal/LeetCodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RakeshKayal/LeetCodes/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/3525-find-x-value-of-array-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RakeshKayal/LeetCodes/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RakeshKayal/LeetCodes/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RakeshKayal/LeetCodes/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/3525-find-x-value-of-array-ii) |
 ## Counting Sort
 |  |
 | ------- |
