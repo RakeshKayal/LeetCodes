@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RakeshKayal/LeetCodes/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RakeshKayal/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RakeshKayal/LeetCodes/tree/master/0055-jump-game) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RakeshKayal/LeetCodes/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/RakeshKayal/LeetCodes/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/RakeshKayal/LeetCodes/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/RakeshKayal/LeetCodes/tree/master/0115-distinct-subsequences) |
@@ -374,5 +376,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RakeshKayal/LeetCodes/tree/master/0022-generate-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RakeshKayal/LeetCodes/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/RakeshKayal/LeetCodes/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
