@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RakeshKayal/LeetCodes/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/RakeshKayal/LeetCodes/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/RakeshKayal/LeetCodes/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/RakeshKayal/LeetCodes/tree/master/0856-score-of-parentheses) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/RakeshKayal/LeetCodes/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0940-distinct-subsequences-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/0940-distinct-subsequences-ii) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/RakeshKayal/LeetCodes/tree/master/1061-lexicographically-smallest-equivalent-string) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/RakeshKayal/LeetCodes/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/RakeshKayal/LeetCodes/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/RakeshKayal/LeetCodes/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/RakeshKayal/LeetCodes/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RakeshKayal/LeetCodes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/RakeshKayal/LeetCodes/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/RakeshKayal/LeetCodes/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/RakeshKayal/LeetCodes/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/RakeshKayal/LeetCodes/tree/master/0856-score-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/RakeshKayal/LeetCodes/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
 |  |
