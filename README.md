@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/RakeshKayal/LeetCodes/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0911-online-election](https://github.com/RakeshKayal/LeetCodes/tree/master/0911-online-election) |
 | [0930-binary-subarrays-with-sum](https://github.com/RakeshKayal/LeetCodes/tree/master/0930-binary-subarrays-with-sum) |
+| [1254-number-of-closed-islands](https://github.com/RakeshKayal/LeetCodes/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/RakeshKayal/LeetCodes/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/RakeshKayal/LeetCodes/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/RakeshKayal/LeetCodes/tree/master/1301-number-of-paths-with-max-score) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0675-cut-off-trees-for-golf-event](https://github.com/RakeshKayal/LeetCodes/tree/master/0675-cut-off-trees-for-golf-event) |
+| [1254-number-of-closed-islands](https://github.com/RakeshKayal/LeetCodes/tree/master/1254-number-of-closed-islands) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RakeshKayal/LeetCodes/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RakeshKayal/LeetCodes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RakeshKayal/LeetCodes/tree/master/2685-count-the-number-of-complete-components) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0675-cut-off-trees-for-golf-event](https://github.com/RakeshKayal/LeetCodes/tree/master/0675-cut-off-trees-for-golf-event) |
+| [1254-number-of-closed-islands](https://github.com/RakeshKayal/LeetCodes/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/RakeshKayal/LeetCodes/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/RakeshKayal/LeetCodes/tree/master/1301-number-of-paths-with-max-score) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RakeshKayal/LeetCodes/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/RakeshKayal/LeetCodes/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RakeshKayal/LeetCodes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RakeshKayal/LeetCodes/tree/master/2685-count-the-number-of-complete-components) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/RakeshKayal/LeetCodes/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/RakeshKayal/LeetCodes/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1254-number-of-closed-islands](https://github.com/RakeshKayal/LeetCodes/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RakeshKayal/LeetCodes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RakeshKayal/LeetCodes/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/RakeshKayal/LeetCodes/tree/master/3532-path-existence-queries-in-a-graph-i) |
