@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/RakeshKayal/LeetCodes/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/RakeshKayal/LeetCodes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RakeshKayal/LeetCodes/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RakeshKayal/LeetCodes/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/RakeshKayal/LeetCodes/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/RakeshKayal/LeetCodes/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RakeshKayal/LeetCodes/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/RakeshKayal/LeetCodes/tree/master/1260-shift-2d-grid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/RakeshKayal/LeetCodes/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RakeshKayal/LeetCodes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
