@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RakeshKayal/LeetCodes/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/RakeshKayal/LeetCodes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RakeshKayal/LeetCodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RakeshKayal/LeetCodes/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RakeshKayal/LeetCodes/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/RakeshKayal/LeetCodes/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RakeshKayal/LeetCodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/RakeshKayal/LeetCodes/tree/master/2409-count-days-spent-together) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RakeshKayal/LeetCodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RakeshKayal/LeetCodes/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RakeshKayal/LeetCodes/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/RakeshKayal/LeetCodes/tree/master/3525-find-x-value-of-array-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RakeshKayal/LeetCodes/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -352,16 +354,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/RakeshKayal/LeetCodes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/RakeshKayal/LeetCodes/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/RakeshKayal/LeetCodes/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RakeshKayal/LeetCodes/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/RakeshKayal/LeetCodes/tree/master/1291-sequential-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RakeshKayal/LeetCodes/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RakeshKayal/LeetCodes/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RakeshKayal/LeetCodes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RakeshKayal/LeetCodes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/RakeshKayal/LeetCodes/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RakeshKayal/LeetCodes/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RakeshKayal/LeetCodes/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
